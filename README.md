@@ -11,6 +11,19 @@
 
 <br>
 
+## Link to Repo
+
+https://github.com/dannauu/PasswordGenerator
+
+## Deployment
+
+https://dannauu.github.io/PasswordGenerator/
+
+<br>
+
 ## Screenshots
 ![](https://github.com/dannauu/PasswordGenerator/blob/main/assets/images/screenshot1.PNG)
 ![](https://github.com/dannauu/PasswordGenerator/blob/main/assets/images/screenshot2.PNG)
+
+<br> 
+
