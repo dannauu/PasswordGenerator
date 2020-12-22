@@ -12,3 +12,5 @@
 <br>
 
 ## Screenshots
+![Contact](https://github.com/dannauu/ResponsivePortfolio/blob/main/Assets/Images/Screenshot1.jpg)
+![About](https://github.com/dannauu/ResponsivePortfolio/blob/main/Assets/Images/Screenshot2.jpg)
