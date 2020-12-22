@@ -12,5 +12,5 @@
 <br>
 
 ## Screenshots
-![Contact]()
-![About]()
+![](https://github.com/dannauu/PasswordGenerator/blob/main/assets/images/screenshot1.PNG)
+![](https://github.com/dannauu/PasswordGenerator/blob/main/assets/images/screenshot2.PNG)
